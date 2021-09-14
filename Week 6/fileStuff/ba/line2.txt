@@ -1,0 +1,4 @@
+t-/-1-/-read book
+e-/-0-/-project meeting -/-/atAug 6th 2-4pm
+e-/-0-/-githubbing -/-/attonite 8pm
+d-/-0-/-introToPython book -/-/bysunday
